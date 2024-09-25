@@ -1,0 +1,232 @@
+---
+title: "Social Pain by SES"
+author: "Qing Honors Thesis: Study 1"
+date: "`r format(Sys.time(), '%H:%M, %d %B, %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+    number_sections: no
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+editor_options:
+  chunk_output_type: console
+---
+
+# Social Pain by SES (EFA Analysis)
+
+> **Are low-SES targets (those paired with low SES jobs) perceived as less sensitive to socially painful events than high-SES targets (those paired with high SES jobs)?**
+
+**Methods**
+Within-subjects design: 67 Mturkers rated how much pain 10 high and 10 low SES targets were expected to feel following socially painful events (e.g., losing a family pet). Only participants who passed 70% or more of the manipulation checks were included in the analysis - see cleaning script (1_social_pain_SES_clean.R) for full cleaning process. 
+
+# R Session Set Up
+
+The first *option* below, `error=TRUE`, keeps `knitr`/RMarkdown knitting even if it encounters an error in R code. The second *option*, `fig.asp=1`, sets the default aspect ratio of figures to 1.0. 
+
+```{r}
+knitr::opts_chunk$set(error=TRUE , fig.asp=1 )
+```
+
+Housekeeping: Clear memory and graphics. 
+
+```{r}
+rm(list=ls())  # Clears all the variables from memory. 
+graphics.off() # Clears all the graphs.
+```
+
+
+-------------------------------------------------------------------------
+
+
+# 1. Social Pain X SES
+
+## 1.A. Load Packages  
+
+```{r}
+library(psych)
+library(tidyverse)
+library(ltm)
+library(Hmisc)
+library(GPArotation)
+```
+
+
+## 1.B. Read in Data from WD
+
+```{r}
+
+# Read in csv 
+dat = read.csv("social_pain_SES_clean_data_efa.csv")
+head(dat)
+tail(dat)
+
+#################
+d1 <- dat %>% 
+  filter(item=="1") 
+d2 <- dat %>% 
+  filter(item=="2") 
+d3 <- dat %>% 
+  filter(item=="3") 
+d4 <- dat %>% 
+  filter(item=="4")
+d5 <- dat %>% 
+  filter(item=="5") 
+d6 <- dat %>% 
+  filter(item=="6") 
+d7 <- dat %>% 
+  filter(item=="7") 
+d8 <- dat %>% 
+  filter(item=="8") 
+d9 <- dat %>% 
+  filter(item=="9") 
+d10 <- dat %>% 
+  filter(item=="10") 
+
+#################
+
+raw.dat <- data.frame(d1$mean_pain, 
+                      d2$mean_pain, 
+                      d3$mean_pain, 
+                      d4$mean_pain, 
+                      d5$mean_pain, 
+                      d6$mean_pain, 
+                      d7$mean_pain, 
+                      d8$mean_pain, 
+                      d9$mean_pain, 
+                      d10$mean_pain)
+
+head(raw.dat)
+
+```
+
+
+## 1.C. Unidimensional Internal Reliability (alpha = .95)
+
+The pain scale used by Trawalter et al. (2012) was internally reliable, alpha = .85. We have an even higher internal consistency with alpha = .95.
+
+```{r}
+
+psych::alpha(raw.dat)
+cronbach.alpha(raw.dat)
+
+```
+
+
+# 2. EFA - Multidimensional Scale Possibilities 
+
+## Models {.tabset .tabset-fade .tabset-pills}
+### 2.A. Correlation Matrix & Establishing Positive Determinant
+
+```{r}
+
+# Obtain and save correlation matrix
+correlation = rcorr(as.matrix(raw.dat))
+(corr_socialpain = correlation$r)
+
+# The determinant of the correlation matrix of the 10 item questionnaire is positive, but really small, 
+# so likely multicollinearity issues for efa 
+det(corr_socialpain)
+```
+
+
+### 2.B. Conduct EFA (3 Factors) - Principal axis factoring with promax (oblique) rotation
+
+```{r}
+
+m1 = fa(corr_socialpain, # correlation matrix of item questionnaires
+        nfactors = 3, # number of factors to extract
+        fm = "pa", # factoring method (principle factor solution)
+        rotate = "promax") # rotation method
+
+# The extracted commonality for all 10 items is high (well explained by 3 factors)
+# Communalities refer to the common variance between the items and can be interpreted as the
+# degree to which the factor structure represents each item.
+m1$communality
+
+print(m1$loadings,
+cutoff = 0.33)
+
+# The correlations between our items and the factors are found in the “Structure Matrix” table.
+m1$Structure
+
+# Full output 
+m1
+
+```
+
+
+### 2.C. Conduct EFA (3 Factors) - maximum likelihood with promax (oblique) rotation
+
+```{r}
+
+m2 = fa(corr_socialpain, # correlation matrix of item questionnaires
+        nfactors = 3, # number of factors to extract
+        fm = "ml", # factoring method (maximum likelihood)
+        rotate = "promax") # rotation method
+
+# The extracted commonality for all 10 items is high (well explained by 3 factors)
+m2$communality
+
+print(m2$loadings,
+cutoff = 0.33)
+
+# The correlations between our items and the factors are found in the “Structure Matrix” table.
+m2$Structure
+
+# Full output 
+m2
+
+```
+
+### 2.D. Conduct EFA (2 Factors) - maximum likelihood with promax (oblique) rotation
+
+```{r}
+m3 = fa(corr_socialpain, # correlation matrix of item questionnaires
+        nfactors = 2, # number of factors to extract
+        fm = "ml", # factoring method (maximum likelihood)
+        rotate = "promax") # rotation method
+
+# The extracted commonality for most items is high (well explained by 2 factors)
+m3$communality
+
+print(m3$loadings,
+cutoff = 0.33)
+
+# The correlations between our items and the factors are found in the “Structure Matrix” table.
+m3$Structure
+
+# Full output 
+m3
+
+```
+
+
+### 2.E. How many factors should we retain? 1
+
+```{r, warning = FALSE}
+
+
+# Parallel analysis suggests that the number of factors =  1  
+
+fa.parallel(corr_socialpain, # correlation of the item questionnaires
+            n.obs = nrow(raw.dat), # number of observations
+            fa = "fa", # show the eigenvalues for factor analysis
+            n.iter = 1000) # number of simulated analysis to perform
+
+```
+
+
+-------------------------------------------------------------------------
+
+# R Session Info
+
+To help with reproducibility, it is important to include the date and details of the software versions:
+
+```{r}
+date()
+sessionInfo()
+```
+

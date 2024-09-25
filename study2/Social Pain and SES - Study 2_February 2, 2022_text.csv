@@ -1,0 +1,272 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,consentY/N,attnCheckQ,ladderPlacement_1,perceivedPainQ,perceivedClosenessQ,extension_1,disruptive,grade,lifeHardshipMatrix_1,lifeHardshipMatrix_2,lifeHardshipMatrix_3,lifeHardshipMatrix_4,warmthComp_1,warmthComp_2,warmthComp_3,warmthComp_4,emotion_1,emotion_2,emotion_3,emotion_4,gender,age,country,country_6_TEXT,race,race_7_TEXT,ethnicity,ethnicity_5_TEXT,FL_20_DO
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,I have read and understand the consent form.,Where did Thomas grow up?,Please indicate where you think Thomas stands relative to other people in the United States: - Where would you place Thomas on this ladder?,"Estimate the
+intensity of pain you believe Thomas is feeling due to the passing of his grandmother using a scale ranging from 1 (Not
+painful) to 4 (Extremely painful).","Estimate how close you believe Thomas was to his grandmother using a scale ranging from 1 (Not
+close) to 4 (Extremely close).","If you were Thomas's teacher, Mr. Johnson, how long of an extension, ranging from 0 days to 7 days, would you give Thomas on his paper? - Number of Days",Estimate how disruptive you believe the passing of Thomas’s grandma is going to be to his success,What grade do you anticipate Thomas to receive in this class?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 4 (Extremely). - How privileged do you think Thomas is?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 4 (Extremely). - How hard do you think Thomas’s life has been?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 4 (Extremely). - How lucky do you think Thomas has been?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 4 (Extremely). - How much adversity do you think Thomas has overcome?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do others in society believe Thomas is warm?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do others in society believe Thomas is friendly?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do others in society believe Thomas is competent?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do others in society believe Thomas is capable?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do you feel pity towards Thomas?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do you feel envy towards Thomas?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do you feel admiration towards Thomas?,Please answer the following questions about Thomas using a scale ranging from 1 (Not at all) to 5 (Extremely). - To what extent do you feel contempt towards Thomas?,Gender:,Age (type value in years here):,What country do you currently live in? - Selected Choice,What country do you currently live in? - Other (type here): - Text,Race (check all that apply): - Selected Choice,Race (check all that apply): - Other (type here): - Text,"Are you of Hispanic, Latino, or Spanish origin? - Selected Choice","Are you of Hispanic, Latino, or Spanish origin? - Yes, another Hispanic, Latino, or Spanish origin (type here): - Text",FL_20 - Block Randomizer - Display Order
+"{""ImportId"":""startDate"",""timeZone"":""America/New_York""}","{""ImportId"":""endDate"",""timeZone"":""America/New_York""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/New_York""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID3""}","{""ImportId"":""QID27""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID39_2""}","{""ImportId"":""QID39_3""}","{""ImportId"":""QID39_4""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID40_2""}","{""ImportId"":""QID40_3""}","{""ImportId"":""QID40_4""}","{""ImportId"":""QID54_1""}","{""ImportId"":""QID54_2""}","{""ImportId"":""QID54_3""}","{""ImportId"":""QID54_4""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44_TEXT""}","{""ImportId"":""QID45""}","{""ImportId"":""QID45_6_TEXT""}","{""ImportId"":""QID46""}","{""ImportId"":""QID46_7_TEXT""}","{""ImportId"":""QID47""}","{""ImportId"":""QID47_5_TEXT""}","{""ImportId"":""FL_20_DO""}"
+2022-01-26 13:46:52,2022-01-26 13:48:55,Survey Preview,,100,123,True,2022-01-26 13:48:56,R_1MLJdEAoHAsVjAo,,,,,39.1396942138671875,-86.51409912109375,preview,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,3,4 - Extremely painful,4 - Extremely close,5,4 - Extremely disruptive,C,"Not at all
+1","Moderately
+3","Slightly
+2","Extremely
+4","Moderately
+4","Neutral
+3","Slightly
+2","Slightly
+2","Moderately
+4","Slightly
+2","Slightly
+2","Slightly
+2",Female,,,,,,,,lowThomas
+2022-01-28 09:16:57,2022-01-28 09:19:30,IP Address,74.122.57.9,100,153,True,2022-01-28 09:19:30,R_277l1BEYjmbkJgA,,,,,39.046905517578125,-77.49030303955078125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,6,2 - Slightly painful,3 - Moderately close,3,2 - Slightly disruptive,C,"Moderately
+3","Moderately
+3","Slightly
+2","Moderately
+3","Neutral
+3","Moderately
+4","Moderately
+4","Moderately
+4","Neutral
+3","Neutral
+3","Moderately
+4","Moderately
+4",Female,51,United States,,White or Caucasian,,No,,lowThomas
+2022-01-28 09:16:55,2022-01-28 09:19:55,IP Address,174.67.203.139,100,180,True,2022-01-28 09:19:55,R_2Ym6Jmbs0u3txiK,,,,,33.43389892578125,-117.622100830078125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,8,3 - Moderately painful,3 - Moderately close,7,3 - Moderately disruptive,A,"Extremely
+4","Not at all
+1","Extremely
+4","Not at all
+1","Neutral
+3","Moderately
+4","Moderately
+4","Moderately
+4","Slightly
+2","Not at all
+1","Not at all
+1","Not at all
+1",Male,32,United States,,East Asian,,No,,highThomas
+2022-01-28 09:16:51,2022-01-28 09:21:34,IP Address,174.53.182.72,100,282,True,2022-01-28 09:21:34,R_2bJYafUMpfXuncO,,,,,45.0702056884765625,-93.455596923828125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,9,4 - Extremely painful,4 - Extremely close,7,1 - Not disruptive at all,B,"Extremely
+4","Not at all
+1","Extremely
+4","Not at all
+1","Neutral
+3","Neutral
+3","Neutral
+3","Neutral
+3","Neutral
+3","Moderately
+4","Slightly
+2","Neutral
+3",Male,42,United States,,White or Caucasian,,No,,highThomas
+2022-01-28 09:18:57,2022-01-28 09:21:44,IP Address,107.15.53.215,100,167,True,2022-01-28 09:21:44,R_3qkclpQNQ6rOS7Q,,,,,35.96099853515625,-78.92910003662109375,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Chicago,7,3 - Moderately painful,2 - Slightly close,4,3 - Moderately disruptive,B,"Moderately
+3","Slightly
+2","Moderately
+3","Slightly
+2","Moderately
+4","Neutral
+3","Moderately
+4","Neutral
+3","Neutral
+3","Neutral
+3","Moderately
+4","Moderately
+4",Male,30,United States,,White or Caucasian,,No,,lowThomas
+2022-01-28 09:22:02,2022-01-28 09:24:07,IP Address,74.122.57.171,100,125,True,2022-01-28 09:24:07,R_1DoKiE6vSuo1fA3,,,,,39.046905517578125,-77.49030303955078125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,6,3 - Moderately painful,3 - Moderately close,4,3 - Moderately disruptive,C,"Slightly
+2","Moderately
+3","Moderately
+3","Moderately
+3","Neutral
+3","Neutral
+3","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Neutral
+3","Moderately
+4",Male,61,United States,,White or Caucasian,,No,,lowThomas
+2022-01-28 09:20:27,2022-01-28 09:32:37,IP Address,161.35.139.79,100,730,True,2022-01-28 09:32:38,R_bNLVfrxkt3qyIKJ,,,,,40.836395263671875,-74.14029693603515625,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,8,4 - Extremely painful,4 - Extremely close,5,3 - Moderately disruptive,C,"Extremely
+4","Not at all
+1","Extremely
+4","Slightly
+2","Neutral
+3","Moderately
+4","Neutral
+3","Neutral
+3","Moderately
+4","Slightly
+2","Slightly
+2","Not at all
+1",Male,30,United States,,Black or African American,,No,,highThomas
+2022-01-28 09:18:36,2022-01-28 09:32:54,IP Address,68.54.214.71,100,858,True,2022-01-28 09:32:54,R_1f9R4YD1E5ZNMST,,,,,39.2050933837890625,-85.932403564453125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,5,4 - Extremely painful,4 - Extremely close,7,3 - Moderately disruptive,A,"Extremely
+4","Moderately
+3","Not at all
+1","Moderately
+3",Extremely5,Extremely5,Extremely5,Extremely5,"Moderately
+4","Not at all
+1","Neutral
+3","Moderately
+4",Female,43,United States,,South Asian,,No,,highThomas
+2022-01-28 09:44:08,2022-01-28 09:49:38,IP Address,154.22.56.30,100,330,True,2022-01-28 09:49:38,R_vZkkN1Zad0hAMPD,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,9,3 - Moderately painful,3 - Moderately close,6,3 - Moderately disruptive,C,"Slightly
+2","Moderately
+3","Moderately
+3","Moderately
+3","Neutral
+3","Neutral
+3","Moderately
+4","Moderately
+4","Neutral
+3","Moderately
+4","Moderately
+4","Moderately
+4",Male,34,United States,,White or Caucasian,,"Yes, Mexican or Mexican American",,lowThomas
+2022-01-28 09:49:48,2022-01-28 09:54:51,IP Address,185.191.228.148,100,303,True,2022-01-28 09:54:51,R_pLAP037bAqAINzj,,,,,41.8777008056640625,-87.637603759765625,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,10,2 - Slightly painful,3 - Moderately close,4,4 - Extremely disruptive,A,"Slightly
+2","Moderately
+3","Slightly
+2","Moderately
+3","Neutral
+3","Slightly
+2","Slightly
+2",Extremely5,"Neutral
+3","Slightly
+2","Neutral
+3","Moderately
+4",Male,27,United States,,"Native American,White or Caucasian",,No,,lowThomas
+2022-01-28 10:00:33,2022-01-28 10:05:11,IP Address,208.203.220.77,100,278,True,2022-01-28 10:05:12,R_cU7Ygm9j9l9lbKp,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,2,4 - Extremely painful,3 - Moderately close,3,2 - Slightly disruptive,B,"Moderately
+3","Slightly
+2","Moderately
+3","Moderately
+3","Neutral
+3","Moderately
+4","Moderately
+4","Neutral
+3","Moderately
+4","Neutral
+3","Moderately
+4","Neutral
+3",Male,26,United States,,White or Caucasian,,No,,lowThomas
+2022-01-28 09:59:27,2022-01-28 10:06:50,IP Address,198.14.16.60,100,442,True,2022-01-28 10:06:50,R_25bXSxnYPTS9iBX,,,,,40.7487945556640625,-73.9882965087890625,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,8,3 - Moderately painful,4 - Extremely close,5,3 - Moderately disruptive,F,"Moderately
+3","Moderately
+3","Moderately
+3","Extremely
+4","Neutral
+3","Neutral
+3","Moderately
+4","Moderately
+4","Moderately
+4","Neutral
+3","Moderately
+4",Extremely5,Female,35,United States,,"Native American,White or Caucasian",,No,,highThomas
+2022-01-28 10:31:27,2022-01-28 10:34:39,IP Address,154.22.56.33,100,191,True,2022-01-28 10:34:39,R_ZpJ4kYO3jK5ODzr,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,9,3 - Moderately painful,3 - Moderately close,5,3 - Moderately disruptive,D,"Slightly
+2","Moderately
+3","Moderately
+3","Extremely
+4","Neutral
+3","Neutral
+3","Moderately
+4","Moderately
+4","Moderately
+4","Slightly
+2","Moderately
+4","Moderately
+4",Male,34,United States,,White or Caucasian,,No,,lowThomas
+2022-01-28 10:37:33,2022-01-28 10:42:33,IP Address,23.254.15.94,100,299,True,2022-01-28 10:42:33,R_1oFNXyV7TSYhFR1,,,,,39.1027069091796875,-94.592498779296875,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,8,2 - Slightly painful,3 - Moderately close,4,3 - Moderately disruptive,A,"Moderately
+3","Extremely
+4","Moderately
+3","Moderately
+3","Moderately
+4",Extremely5,"Moderately
+4","Moderately
+4","Moderately
+4",Extremely5,"Moderately
+4","Moderately
+4",Female,53,United States,,White or Caucasian,,No,,lowThomas
+2022-01-28 10:50:58,2022-01-28 10:54:09,IP Address,147.124.217.100,100,190,True,2022-01-28 10:54:09,R_RnqdYaCgi2K2Ozv,,,,,32.776702880859375,-96.80500030517578125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,8,3 - Moderately painful,4 - Extremely close,5,3 - Moderately disruptive,A,"Moderately
+3","Moderately
+3","Moderately
+3","Moderately
+3","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4",Female,40,United States,,White or Caucasian,,No,,highThomas
+2022-01-28 11:00:40,2022-01-28 11:02:44,IP Address,208.203.209.11,100,123,True,2022-01-28 11:02:44,R_2wnIARy2Rd3es9R,,,,,40.82049560546875,-73.91829681396484375,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,7,3 - Moderately painful,2 - Slightly close,4,3 - Moderately disruptive,B,"Moderately
+3","Moderately
+3","Slightly
+2","Moderately
+3","Neutral
+3","Moderately
+4","Moderately
+4","Neutral
+3","Moderately
+4","Neutral
+3","Moderately
+4","Moderately
+4",Male,26,United States,,White or Caucasian,,No,,highThomas
+2022-01-28 10:58:06,2022-01-28 11:04:07,IP Address,68.97.138.247,100,361,True,2022-01-28 11:04:07,R_Tn37F8S1RGs5wMV,,,,,35.497100830078125,-97.733001708984375,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Chicago,9,3 - Moderately painful,4 - Extremely close,6,4 - Extremely disruptive,B,"Extremely
+4","Slightly
+2","Moderately
+3","Moderately
+3",Extremely5,"Moderately
+4","Neutral
+3","Moderately
+4",Extremely5,"Moderately
+4","Neutral
+3","Moderately
+4",Female,51,United States,,White or Caucasian,,"Yes, another Hispanic, Latino, or Spanish origin (type here):",,lowThomas
+2022-01-28 11:35:20,2022-01-28 11:42:00,IP Address,81.161.4.59,100,399,True,2022-01-28 11:42:00,R_1Nhl9FoL8A5nkKe,,,,,40.766204833984375,-74.01779937744140625,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,9,3 - Moderately painful,3 - Moderately close,6,4 - Extremely disruptive,B,"Moderately
+3","Extremely
+4","Slightly
+2","Moderately
+3","Moderately
+4",Extremely5,Extremely5,"Neutral
+3",Extremely5,Extremely5,"Moderately
+4","Neutral
+3",Male,31,United States,,White or Caucasian,,No,,highThomas
+2022-01-28 11:52:34,2022-01-28 11:54:44,IP Address,74.129.86.185,100,130,True,2022-01-28 11:54:44,R_AFjPqC4vFjg4BDH,,,,,36.7313995361328125,-88.6501007080078125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,8,3 - Moderately painful,2 - Slightly close,5,3 - Moderately disruptive,C,"Moderately
+3","Extremely
+4","Extremely
+4","Extremely
+4","Moderately
+4","Moderately
+4","Moderately
+4",Extremely5,Extremely5,"Moderately
+4","Moderately
+4","Moderately
+4",Male,37,United States,,Native American,,No,,lowThomas
+2022-01-28 13:15:06,2022-01-28 13:31:31,IP Address,199.114.218.121,100,985,True,2022-01-28 13:31:32,R_3oHinWfrw6n0Hq3,,,,,40.1103973388671875,-83.11309814453125,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,8,4 - Extremely painful,4 - Extremely close,7,4 - Extremely disruptive,B,"Moderately
+3","Slightly
+2","Moderately
+3","Slightly
+2","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Slightly
+2","Moderately
+4","Slightly
+2",Male,31,United States,,White or Caucasian,,"Yes, another Hispanic, Latino, or Spanish origin (type here):",,highThomas
+2022-01-28 09:50:45,2022-01-28 09:51:08,IP Address,185.191.228.148,30,23,False,2022-02-02 12:57:06,R_1lcKUCdUEBlzgrb,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,lowThomas
+2022-01-28 09:16:54,2022-01-28 09:17:38,IP Address,194.49.79.194,30,44,False,2022-02-02 12:57:06,R_ZlqoZY7bl59eTOV,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,highThomas
+2022-01-28 09:19:32,2022-01-28 09:20:00,IP Address,212.162.148.120,33,28,False,2022-02-02 12:57:06,R_1JKqzyzz0VqsL9F,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Chicago,,,,,,,,,,,,,,,,,,,,,,,,,,,lowThomas
+2022-01-28 09:50:01,2022-01-28 10:08:05,IP Address,185.244.38.210,58,1084,False,2022-02-02 12:57:06,R_2qCMBqnJKzYsbIW,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Chicago,5,2 - Slightly painful,2 - Slightly close,,,,,,,,,,,,,,,,,,,,,,,,highThomas
+2022-01-28 10:27:20,2022-01-28 10:28:00,IP Address,99.97.27.108,21,39,False,2022-02-02 12:57:07,R_Y5PwdvwJmLNsDLz,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,highThomas
+2022-01-28 09:52:11,2022-01-28 12:55:15,IP Address,185.191.228.148,21,10983,False,2022-02-02 12:57:07,R_2wTd7yFzUTgrdhW,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,lowThomas
+2022-01-28 09:17:07,2022-01-28 09:23:14,IP Address,74.215.216.98,97,367,False,2022-02-02 12:57:07,R_0DI7Bxb7JmOd5vz,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,9,4 - Extremely painful,4 - Extremely close,5,3 - Moderately disruptive,B,"Extremely
+4","Slightly
+2","Moderately
+3","Slightly
+2","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Moderately
+4","Neutral
+3","Neutral
+3",Male,57,United States,,White or Caucasian,,No,,highThomas
+2022-01-28 11:50:38,2022-01-28 11:51:41,IP Address,198.14.28.93,30,63,False,2022-02-02 12:57:07,R_22X1jsDDfZYXjXd,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,lowThomas
+2022-01-28 09:45:02,2022-01-28 09:46:52,IP Address,154.22.56.30,21,110,False,2022-02-02 12:57:07,R_1BSphA261kx6vL7,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",,,,,,,,,,,,,,,,,,,,,,,,,,,,highThomas
+2022-01-28 10:03:10,2022-01-28 10:05:13,IP Address,157.46.104.27,42,122,False,2022-02-02 12:57:07,R_2TAekIuOoVglVee,,,,,,,anonymous,EN,"Yes, I acknowledge that I am 18 years or older, and I understand and consent to participate in this research.",Indianapolis,9,,,,,,,,,,,,,,,,,,,,,,,,,,highThomas

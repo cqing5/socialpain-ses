@@ -1,0 +1,327 @@
+---
+title: "Social Pain by SES: By-Item Analysis"
+author: "Qing Honors Thesis: Study 1"
+date: "`r format(Sys.time(), '%H:%M, %d %B, %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+    number_sections: no
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+editor_options:
+  chunk_output_type: console
+---
+
+# Social Pain by SES (By-Item Analysis)
+
+> **Are low-SES targets (those paired with low SES jobs) perceived as less sensitive to socially painful events than high-SES targets (those paired with high SES jobs)?**
+
+**Methods**
+Within-subjects design: 67 Mturkers rated how much pain 10 high and 10 low SES targets were expected to feel following socially painful events (e.g., losing a family pet). Only participants who passed 70% or more of the manipulation checks were included in the analysis - see cleaning script (1_social_pain_SES_clean.R) for full cleaning process. 
+
+# R Session Set Up
+
+The first *option* below, `error=TRUE`, keeps `knitr`/RMarkdown knitting even if it encounters an error in R code. The second *option*, `fig.asp=1`, sets the default aspect ratio of figures to 1.0. 
+
+```{r}
+knitr::opts_chunk$set(error=TRUE , fig.asp=1 )
+```
+
+Housekeeping: Clear memory and graphics. 
+
+```{r}
+rm(list=ls())  # Clears all the variables from memory. 
+graphics.off() # Clears all the graphs.
+```
+
+
+-------------------------------------------------------------------------
+
+
+# 1. Social Pain X SES
+
+## 1.A. Load Packages  
+
+```{r}
+library(effectsize)
+library(tidyverse)
+```
+
+
+## 1.B. Read in Data from WD 
+
+We will fit a paired samples t-test, examining if participants had significantly different social pain ratings across SES. 
+
+```{r}
+
+# Read in csv 
+setwd("C:/Users/freib/OneDrive - Indiana University/Research/Qing_HonorsThesis/SocialPainXSES_Markdown_10-6-2021/By-Item-Clean")
+dat = read.csv("social_pain_SES_clean_data_by-item.csv")
+
+```
+
+# 2. By-Item Analysis 
+
+## Models {.tabset .tabset-fade .tabset-pills}
+### 2.A. Item 1
+```{r}
+#Item 1: This person's best friend moves across the country
+d1 <- dat %>% 
+  filter(item=="1") 
+unique(d1$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d1)
+
+d1 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d1
+
+mean_d1
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d1, 
+         paired = TRUE)
+
+```
+
+### 2.B. Item 2
+```{r}
+#Item 2: This person realizes after walking around all day that a pair of underwear was stuck to the back of their shirt.
+
+d2 <- dat %>% 
+  filter(item=="2") 
+unique(d2$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d2)
+
+d2 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d2
+
+mean_d2
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d2, 
+         paired = TRUE)
+
+```
+
+### 2.C. Item 3
+```{r}
+#Item 3: Strangers laugh at this person's haircut.
+
+d3 <- dat %>% 
+  filter(item=="3") 
+unique(d3$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d3)
+
+d3 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d3
+
+mean_d3
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d3, 
+         paired = TRUE)
+
+```
+
+
+### 2.D. Item 4
+```{r}
+#Item 4: This person's best friend gossips about them behind their back.
+
+d4 <- dat %>% 
+  filter(item=="4") 
+unique(d4$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d4)
+
+d4 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d4
+
+mean_d4
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d4, 
+         paired = TRUE)
+
+```
+
+
+### 2.E. Item 5
+```{r}
+#Item 5: A friend makes fun of this person in front of others.
+
+d5 <- dat %>% 
+  filter(item=="5") 
+unique(d5$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d5)
+
+d5 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d5
+
+mean_d5
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d5, 
+         paired = TRUE)
+
+```
+
+
+### 2.F. Item 6
+```{r}
+#Item 6: This person invites friends over to celebrate their birthday and no one comes.
+
+d6 <- dat %>% 
+  filter(item=="6") 
+unique(d6$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d6)
+
+d6 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d6
+
+mean_d6
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d6, 
+         paired = TRUE)
+
+```
+
+
+### 2.G. Item 7
+```{r}
+#Item 7: This person overhears a coworker talking about their incompetence at their job.
+
+d7 <- dat %>% 
+  filter(item=="7") 
+unique(d7$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d7)
+
+d7 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d7
+
+mean_d7
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d7, 
+         paired = TRUE)
+
+```
+
+
+### 2.H. Item 8
+```{r}
+#Item 8: This person's family pet passes away.
+
+d8 <- dat %>% 
+  filter(item=="8") 
+unique(d8$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d8)
+
+d8 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d8
+
+mean_d8
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d8, 
+         paired = TRUE)
+
+```
+
+
+### 2.I. Item 9.
+```{r}
+#Item 9: This person trips and falls and people laugh at them.
+
+d9 <- dat %>% 
+  filter(item=="9") 
+unique(d9$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d9)
+
+d9 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d9
+
+mean_d9
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d9, 
+         paired = TRUE)
+
+```
+
+
+### 2.J. Item 10
+```{r}
+#Item 10: This person's romantic partner asks them for some “space”.
+
+d10 <- dat %>% 
+  filter(item=="10") 
+unique(d10$item)
+
+# Define Model
+t.test(mean_pain ~ SES, paired = TRUE, data = d10)
+
+d10 %>%
+  group_by(SES) %>%
+  summarise(M = mean(mean_pain), SD = sd(mean_pain)) -> mean_d10
+
+mean_d10
+
+# Cohen's D 
+cohens_d(mean_pain ~ SES, 
+         data = d10, 
+         paired = TRUE)
+
+```
+
+
+
+-------------------------------------------------------------------------
+
+# R Session Info
+
+To help with reproducibility, it is important to include the date and details of the software versions:
+
+```{r}
+date()
+sessionInfo()
+```
+

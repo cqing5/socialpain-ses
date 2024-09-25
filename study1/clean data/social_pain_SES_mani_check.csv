@@ -1,0 +1,1551 @@
+ResponseId,Gender,Age,Country,Country_6_TEXT,Race,Race_7_TEXT,Ethnicity,Ethnicity_5_TEXT,trial_names,item,values,stim_id,SES,SES_id
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH1MC,MC,computer,1,high,high_1
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH1MC,MC,financial manager,1,high,high_1
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH1MC,MC,financial supervisor,1,high,high_1
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH1MC,MC,physican,1,high,high_1
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH1MC,MC,physician,1,high,high_1
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH1MC,MC,physician,1,high,high_1
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH1MC,MC,physician,1,high,high_1
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH1MC,MC,physician,1,high,high_1
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH1MC,MC,physician,1,high,high_1
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH1MC,MC,physician,1,high,high_1
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH1MC,MC,physician,1,high,high_1
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH1MC,MC,physician,1,high,high_1
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1CmfLH8xs3fJECX,,,,,,,,,wH1MC,MC,physician,1,high,high_1
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH1MC,MC,physician,1,high,high_1
+R_1mguyIYh2wvPnjv,,,,,,,,,wH1MC,MC,physician,1,high,high_1
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH1MC,MC,sales supervisor.,1,high,high_1
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH10MC,MC,engineer,10,high,high_10
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH10MC,MC,financial manager,10,high,high_10
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH10MC,MC,pharmacist,10,high,high_10
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH10MC,MC,pharmacist,10,high,high_10
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH10MC,MC,pharmacist,10,high,high_10
+R_1CmfLH8xs3fJECX,,,,,,,,,wH10MC,MC,pharmacist,10,high,high_10
+R_2wzBdjn7SNUIpW5,,,,,,,,,wH10MC,MC,pharmacist,10,high,high_10
+R_3DcqfOqDtzLKpKC,,,,,,,,,wH10MC,MC,pharmacist,10,high,high_10
+R_1mguyIYh2wvPnjv,,,,,,,,,wH10MC,MC,pharmacist,10,high,high_10
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH10MC,MC,pharmastic,10,high,high_10
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH11MC,MC,baristo,11,high,high_11
+R_1FPyJMzGsyowG2O,,,,,,,,,wH11MC,MC,doctor,11,high,high_11
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH11MC,MC,manser,11,high,high_11
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH11MC,MC,phsician,11,high,high_11
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH11MC,MC,physican,11,high,high_11
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH11MC,MC,physican,11,high,high_11
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH11MC,MC,physician,11,high,high_11
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH11MC,MC,physician,11,high,high_11
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH11MC,MC,physician,11,high,high_11
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH11MC,MC,physician,11,high,high_11
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH11MC,MC,physician,11,high,high_11
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH11MC,MC,physician,11,high,high_11
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH11MC,MC,physician,11,high,high_11
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH11MC,MC,physician,11,high,high_11
+R_1otjRKsteXhoyuk,,,,,,,,,wH11MC,MC,physician,11,high,high_11
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH11MC,MC,software engineer,11,high,high_11
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH11MC,MC,waiter,11,high,high_11
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH12MC,MC,cab driver,12,high,high_12
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH12MC,MC,financial manager,12,high,high_12
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH12MC,MC,financial manager,12,high,high_12
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH12MC,MC,financial manager,12,high,high_12
+R_1gthvjZB8aAJ9JG,,,,,,,,,wH12MC,MC,financial manager,12,high,high_12
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH12MC,MC,financial manager.,12,high,high_12
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH12MC,MC,manager,12,high,high_12
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH12MC,MC,manegar,12,high,high_12
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH12MC,MC,pizza boy,12,high,high_12
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH12MC,MC,salemanser,12,high,high_12
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH13MC,MC,army veteran,13,high,high_13
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH13MC,MC,bsiness executive,13,high,high_13
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH13MC,MC,business,13,high,high_13
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH13MC,MC,business excuetive,13,high,high_13
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH13MC,MC,business excutive,13,high,high_13
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wH13MC,MC,business exec,13,high,high_13
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH13MC,MC,business executive,13,high,high_13
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH13MC,MC,business executive,13,high,high_13
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH13MC,MC,business executive,13,high,high_13
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH13MC,MC,business executive,13,high,high_13
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH13MC,MC,business executive,13,high,high_13
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH13MC,MC,business executive,13,high,high_13
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH13MC,MC,business executive,13,high,high_13
+R_1FPyJMzGsyowG2O,,,,,,,,,wH13MC,MC,business executive,13,high,high_13
+R_23f9gXYaZTstMPP,,,,,,,,,wH13MC,MC,business executive,13,high,high_13
+R_1otjRKsteXhoyuk,,,,,,,,,wH13MC,MC,business executive,13,high,high_13
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH13MC,MC,games,13,high,high_13
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH13MC,MC,manser,13,high,high_13
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH13MC,MC,prophet,13,high,high_13
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH13MC,MC,software developer,13,high,high_13
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH13MC,MC,ticket checker,13,high,high_13
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH14MC,MC,advocate,14,high,high_14
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH14MC,MC,bus driver,14,high,high_14
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH14MC,MC,carpenter,14,high,high_14
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH14MC,MC,head master,14,high,high_14
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH14MC,MC,lawer,14,high,high_14
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH14MC,MC,lawyer,14,high,high_14
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH14MC,MC,lawyer,14,high,high_14
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH14MC,MC,lawyer,14,high,high_14
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH14MC,MC,lawyer,14,high,high_14
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH14MC,MC,lawyer,14,high,high_14
+R_1FPyJMzGsyowG2O,,,,,,,,,wH14MC,MC,lawyer,14,high,high_14
+R_23f9gXYaZTstMPP,,,,,,,,,wH14MC,MC,lawyer,14,high,high_14
+R_1gthvjZB8aAJ9JG,,,,,,,,,wH14MC,MC,lawyer,14,high,high_14
+R_1otjRKsteXhoyuk,,,,,,,,,wH14MC,MC,lawyer,14,high,high_14
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH14MC,MC,my collage name is joseph,14,high,high_14
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH14MC,MC,waiter,14,high,high_14
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH15MC,MC,bus driver,15,high,high_15
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH15MC,MC,cooking,15,high,high_15
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH15MC,MC,driver,15,high,high_15
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH15MC,MC,salemanser,15,high,high_15
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH15MC,MC,software,15,high,high_15
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH15MC,MC,software developer,15,high,high_15
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH15MC,MC,software developer,15,high,high_15
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH15MC,MC,software developer,15,high,high_15
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH15MC,MC,software developer,15,high,high_15
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH15MC,MC,software developer,15,high,high_15
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH15MC,MC,software developer,15,high,high_15
+R_1otjRKsteXhoyuk,,,,,,,,,wH15MC,MC,software developer,15,high,high_15
+R_stxSTSgimODYCt3,,,,,,,,,wH15MC,MC,software developer,15,high,high_15
+R_xcjCQojqKk5LiKJ,,,,,,,,,wH15MC,MC,software developer,15,high,high_15
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH15MC,MC,software developer.,15,high,high_15
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH15MC,MC,software developer.,15,high,high_15
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wH15MC,MC,software engineer,15,high,high_15
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH16MC,MC,cab driver,16,high,high_16
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH16MC,MC,no,16,high,high_16
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH16MC,MC,paper boy,16,high,high_16
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH16MC,MC,pharmacist,16,high,high_16
+R_1K7PV1s1vCaeotJ,,,,,,,,,wH16MC,MC,sales,16,high,high_16
+R_1FPyJMzGsyowG2O,,,,,,,,,wH16MC,MC,sales,16,high,high_16
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH16MC,MC,sales superviours,16,high,high_16
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH16MC,MC,sales supervisor,16,high,high_16
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH16MC,MC,sales supervisor,16,high,high_16
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH16MC,MC,sales supervisor,16,high,high_16
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wH16MC,MC,sales supervisor,16,high,high_16
+R_1otjRKsteXhoyuk,,,,,,,,,wH16MC,MC,sales supervisor,16,high,high_16
+R_xcjCQojqKk5LiKJ,,,,,,,,,wH16MC,MC,sales supervisor,16,high,high_16
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH16MC,MC,sales supervisor.,16,high,high_16
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH16MC,MC,sales supervisor.,16,high,high_16
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH16MC,MC,supervisor,16,high,high_16
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH16MC,MC,supervisor,16,high,high_16
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH16MC,MC,supervisor,16,high,high_16
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH16MC,MC,"wisdom, integrity, and faithfulness to god",16,high,high_16
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH17MC,MC,high school kid,17,high,high_17
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH17MC,MC,id professional,17,high,high_17
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH17MC,MC,it,17,high,high_17
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH17MC,MC,it,17,high,high_17
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH17MC,MC,it,17,high,high_17
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH17MC,MC,it professer,17,high,high_17
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH17MC,MC,it professional,17,high,high_17
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH17MC,MC,it professional,17,high,high_17
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH17MC,MC,it professional,17,high,high_17
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH17MC,MC,it professional,17,high,high_17
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH17MC,MC,it professional,17,high,high_17
+R_1FPyJMzGsyowG2O,,,,,,,,,wH17MC,MC,it professional,17,high,high_17
+R_1otjRKsteXhoyuk,,,,,,,,,wH17MC,MC,it professional,17,high,high_17
+R_stxSTSgimODYCt3,,,,,,,,,wH17MC,MC,it professional,17,high,high_17
+R_xcjCQojqKk5LiKJ,,,,,,,,,wH17MC,MC,it professional,17,high,high_17
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH17MC,MC,it professional.,17,high,high_17
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH17MC,MC,it professtional,17,high,high_17
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH17MC,MC,it professuinal,17,high,high_17
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH17MC,MC,money lender,17,high,high_17
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH17MC,MC,sale manser,17,high,high_17
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH17MC,MC,waiter,17,high,high_17
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH18MC,MC,hirer,18,high,high_18
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH18MC,MC,manser,18,high,high_18
+R_1K7PV1s1vCaeotJ,,,,,,,,,wH18MC,MC,mturk,18,high,high_18
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH18MC,MC,no,18,high,high_18
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH18MC,MC,sales supervisor,18,high,high_18
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH18MC,MC,surgeon,18,high,high_18
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH18MC,MC,surgeon,18,high,high_18
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH18MC,MC,surgeon,18,high,high_18
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH18MC,MC,surgeon,18,high,high_18
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH18MC,MC,surgeon,18,high,high_18
+R_2OOUBaF9xzUTdRq,,,,,,,,,wH18MC,MC,surgeon,18,high,high_18
+R_1otjRKsteXhoyuk,,,,,,,,,wH18MC,MC,surgeon,18,high,high_18
+R_stxSTSgimODYCt3,,,,,,,,,wH18MC,MC,surgeon,18,high,high_18
+R_xcjCQojqKk5LiKJ,,,,,,,,,wH18MC,MC,surgeon,18,high,high_18
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH18MC,MC,surgeor,18,high,high_18
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH18MC,MC,teacher,18,high,high_18
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH19MC,MC,army veteran,19,high,high_19
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH19MC,MC,cop,19,high,high_19
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH19MC,MC,engineer,19,high,high_19
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH19MC,MC,engineer,19,high,high_19
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH19MC,MC,engineer,19,high,high_19
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH19MC,MC,engineer,19,high,high_19
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH19MC,MC,engineer,19,high,high_19
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH19MC,MC,engineer,19,high,high_19
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH19MC,MC,engineer,19,high,high_19
+R_1FPyJMzGsyowG2O,,,,,,,,,wH19MC,MC,engineer,19,high,high_19
+R_1otjRKsteXhoyuk,,,,,,,,,wH19MC,MC,engineer,19,high,high_19
+R_xcjCQojqKk5LiKJ,,,,,,,,,wH19MC,MC,engineer,19,high,high_19
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH19MC,MC,engoneer,19,high,high_19
+R_1K7PV1s1vCaeotJ,,,,,,,,,wH19MC,MC,fiance,19,high,high_19
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH19MC,MC,sale manser,19,high,high_19
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH19MC,MC,software developer,19,high,high_19
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH19MC,MC,sports,19,high,high_19
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH19MC,MC,taxi driver,19,high,high_19
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH2MC,MC,finacial manager,2,high,high_2
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH2MC,MC,finance,2,high,high_2
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH2MC,MC,finance manager,2,high,high_2
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH2MC,MC,financial manager,2,high,high_2
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH2MC,MC,financial manager,2,high,high_2
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH2MC,MC,financial manager,2,high,high_2
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH2MC,MC,financial manager,2,high,high_2
+R_2diJTJAubnizYgw,,,,,,,,,wH2MC,MC,financial manager,2,high,high_2
+R_1CmfLH8xs3fJECX,,,,,,,,,wH2MC,MC,financial manager,2,high,high_2
+R_2wzBdjn7SNUIpW5,,,,,,,,,wH2MC,MC,financial manager,2,high,high_2
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH2MC,MC,financial manager.,2,high,high_2
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wH20MC,MC,fire fighter,20,high,high_20
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wH20MC,MC,hair dresser,20,high,high_20
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wH20MC,MC,no,20,high,high_20
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wH20MC,MC,pharamacist,20,high,high_20
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wH20MC,MC,pharmacist,20,high,high_20
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wH20MC,MC,pharmacist,20,high,high_20
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wH20MC,MC,pharmacist,20,high,high_20
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wH20MC,MC,pharmacist,20,high,high_20
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wH20MC,MC,pharmacist,20,high,high_20
+R_1FPyJMzGsyowG2O,,,,,,,,,wH20MC,MC,pharmacist,20,high,high_20
+R_23f9gXYaZTstMPP,,,,,,,,,wH20MC,MC,pharmacist,20,high,high_20
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wH20MC,MC,pharmacist,20,high,high_20
+R_1gthvjZB8aAJ9JG,,,,,,,,,wH20MC,MC,pharmacist,20,high,high_20
+R_1otjRKsteXhoyuk,,,,,,,,,wH20MC,MC,pharmacist,20,high,high_20
+R_xcjCQojqKk5LiKJ,,,,,,,,,wH20MC,MC,pharmacist,20,high,high_20
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wH20MC,MC,roperty management.,20,high,high_20
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH3MC,MC,businee executive,3,high,high_3
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH3MC,MC,business executive,3,high,high_3
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH3MC,MC,business executive,3,high,high_3
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH3MC,MC,business executive,3,high,high_3
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH3MC,MC,business executive,3,high,high_3
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH3MC,MC,business executive,3,high,high_3
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH3MC,MC,business executive,3,high,high_3
+R_1CmfLH8xs3fJECX,,,,,,,,,wH3MC,MC,business executive,3,high,high_3
+R_2wzBdjn7SNUIpW5,,,,,,,,,wH3MC,MC,business executive,3,high,high_3
+R_0xCs70gIB4k1OI9,,,,,,,,,wH3MC,MC,business executive,3,high,high_3
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH3MC,MC,business executive.,3,high,high_3
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH3MC,MC,business executive.,3,high,high_3
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH3MC,MC,executive,3,high,high_3
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH3MC,MC,executive,3,high,high_3
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH3MC,MC,executive,3,high,high_3
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH3MC,MC,financial manager,3,high,high_3
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH3MC,MC,work as business executive,3,high,high_3
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH4MC,MC,finance,4,high,high_4
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH4MC,MC,lawyer,4,high,high_4
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH4MC,MC,lawyer,4,high,high_4
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_1CmfLH8xs3fJECX,,,,,,,,,wH4MC,MC,lawyer,4,high,high_4
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH4MC,MC,lawyer,4,high,high_4
+R_2wzBdjn7SNUIpW5,,,,,,,,,wH4MC,MC,lawyer,4,high,high_4
+R_3DcqfOqDtzLKpKC,,,,,,,,,wH4MC,MC,lawyer,4,high,high_4
+R_1mguyIYh2wvPnjv,,,,,,,,,wH4MC,MC,lawyer,4,high,high_4
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH5MC,MC,cashier,5,high,high_5
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH5MC,MC,developer,5,high,high_5
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH5MC,MC,dishwasher,5,high,high_5
+R_2znG4ygTFrvKkZ3,,,,,,,,,wH5MC,MC,employee,5,high,high_5
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH5MC,MC,financial manager,5,high,high_5
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH5MC,MC,software developement,5,high,high_5
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH5MC,MC,software developer,5,high,high_5
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH5MC,MC,software developer,5,high,high_5
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH5MC,MC,software developer,5,high,high_5
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH5MC,MC,software developer,5,high,high_5
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_1CmfLH8xs3fJECX,,,,,,,,,wH5MC,MC,software developer,5,high,high_5
+R_pEpnTjm66qIjT0J,,,,,,,,,wH5MC,MC,software developer,5,high,high_5
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH5MC,MC,software developer,5,high,high_5
+R_0xCs70gIB4k1OI9,,,,,,,,,wH5MC,MC,software developer,5,high,high_5
+R_3DcqfOqDtzLKpKC,,,,,,,,,wH5MC,MC,software developer,5,high,high_5
+R_1mguyIYh2wvPnjv,,,,,,,,,wH5MC,MC,software developer,5,high,high_5
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH5MC,MC,software developer.,5,high,high_5
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH6MC,MC,financial manager,6,high,high_6
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH6MC,MC,information technology,6,high,high_6
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH6MC,MC,sale's supervisior,6,high,high_6
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH6MC,MC,sales supervisor,6,high,high_6
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_pEpnTjm66qIjT0J,,,,,,,,,wH6MC,MC,sales supervisor,6,high,high_6
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH6MC,MC,sales supervisor,6,high,high_6
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH6MC,MC,sales supervisor.,6,high,high_6
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH6MC,MC,sales supervisor.,6,high,high_6
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH6MC,MC,supervisor,6,high,high_6
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH6MC,MC,supervisor,6,high,high_6
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH6MC,MC,supervisor,6,high,high_6
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH6MC,MC,supervisor,6,high,high_6
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH6MC,MC,supervisor,6,high,high_6
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH7MC,MC,financial manager,7,high,high_7
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH7MC,MC,financial manager,7,high,high_7
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH7MC,MC,it,7,high,high_7
+R_30qJGVvYdtLpp3b,,,,,,,,,wH7MC,MC,it,7,high,high_7
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH7MC,MC,it pro,7,high,high_7
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH7MC,MC,it pro,7,high,high_7
+R_1mguyIYh2wvPnjv,,,,,,,,,wH7MC,MC,it professiona,7,high,high_7
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH7MC,MC,it professional,7,high,high_7
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH7MC,MC,it professional,7,high,high_7
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH7MC,MC,it professional,7,high,high_7
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH7MC,MC,it professional,7,high,high_7
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH7MC,MC,it professional,7,high,high_7
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1CmfLH8xs3fJECX,,,,,,,,,wH7MC,MC,it professional,7,high,high_7
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH7MC,MC,it professional,7,high,high_7
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH7MC,MC,it proffesional,7,high,high_7
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH7MC,MC,it specialist,7,high,high_7
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH8MC,MC,financial manager,8,high,high_8
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH8MC,MC,physician,8,high,high_8
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH8MC,MC,roofer,8,high,high_8
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH8MC,MC,surgeon,8,high,high_8
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH8MC,MC,surgeon,8,high,high_8
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_1CmfLH8xs3fJECX,,,,,,,,,wH8MC,MC,surgeon,8,high,high_8
+R_82lXaIabGWgA2Ix,,,,,,,,,wH8MC,MC,surgeon,8,high,high_8
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH8MC,MC,surgeon,8,high,high_8
+R_0xCs70gIB4k1OI9,,,,,,,,,wH8MC,MC,surgeon,8,high,high_8
+R_1mguyIYh2wvPnjv,,,,,,,,,wH8MC,MC,surgeon,8,high,high_8
+R_2wzBdjn7SNUIpW5,,,,,,,,,wH8MC,MC,surgeon.,8,high,high_8
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wH9MC,MC,engineer,9,high,high_9
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wH9MC,MC,engineer,9,high,high_9
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wH9MC,MC,engineer,9,high,high_9
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wH9MC,MC,engineer,9,high,high_9
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_1CmfLH8xs3fJECX,,,,,,,,,wH9MC,MC,engineer,9,high,high_9
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wH9MC,MC,engineer,9,high,high_9
+R_2wzBdjn7SNUIpW5,,,,,,,,,wH9MC,MC,engineer,9,high,high_9
+R_0xCs70gIB4k1OI9,,,,,,,,,wH9MC,MC,engineer,9,high,high_9
+R_1mguyIYh2wvPnjv,,,,,,,,,wH9MC,MC,engineer,9,high,high_9
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wH9MC,MC,financial manager,9,high,high_9
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wH9MC,MC,teacher,9,high,high_9
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL1MC,MC,banker,1,low,low_1
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL1MC,MC,cook,1,low,low_1
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL1MC,MC,cook,1,low,low_1
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL1MC,MC,cook,1,low,low_1
+R_1FPyJMzGsyowG2O,,,,,,,,,wL1MC,MC,cook,1,low,low_1
+R_9Es5BWq07GTILpn,,,,,,,,,wL1MC,MC,fast food,1,low,low_1
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL1MC,MC,fast food cook,1,low,low_1
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL1MC,MC,fast food cook,1,low,low_1
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL1MC,MC,fast food cook,1,low,low_1
+R_stxSTSgimODYCt3,,,,,,,,,wL1MC,MC,fast food cook,1,low,low_1
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL1MC,MC,fast food cook.,1,low,low_1
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL1MC,MC,fast food cook.,1,low,low_1
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL1MC,MC,fast food cooker,1,low,low_1
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL1MC,MC,fastfood cook,1,low,low_1
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL1MC,MC,fastfood cook,1,low,low_1
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL1MC,MC,food cook,1,low,low_1
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL1MC,MC,food cook,1,low,low_1
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL1MC,MC,sale manser,1,low,low_1
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL1MC,MC,software developer,1,low,low_1
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL1MC,MC,teacer,1,low,low_1
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL10MC,MC,a real estate agent;,10,low,low_10
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL10MC,MC,gamer,10,low,low_10
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL10MC,MC,mailman,10,low,low_10
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL10MC,MC,no,10,low,low_10
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL10MC,MC,rofer,10,low,low_10
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL10MC,MC,roofer,10,low,low_10
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL10MC,MC,roofer,10,low,low_10
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL10MC,MC,roofer,10,low,low_10
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL10MC,MC,roofer,10,low,low_10
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL10MC,MC,roofer,10,low,low_10
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL10MC,MC,roofer,10,low,low_10
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL10MC,MC,roofer,10,low,low_10
+R_1FPyJMzGsyowG2O,,,,,,,,,wL10MC,MC,roofer,10,low,low_10
+R_1otjRKsteXhoyuk,,,,,,,,,wL10MC,MC,roofer,10,low,low_10
+R_stxSTSgimODYCt3,,,,,,,,,wL10MC,MC,roofer,10,low,low_10
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL11MC,MC,cook,11,low,low_11
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL11MC,MC,cook,11,low,low_11
+R_3DcqfOqDtzLKpKC,,,,,,,,,wL11MC,MC,cook,11,low,low_11
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL11MC,MC,fast food,11,low,low_11
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL11MC,MC,fast food cook,11,low,low_11
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL11MC,MC,fast food cook,11,low,low_11
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_1CmfLH8xs3fJECX,,,,,,,,,wL11MC,MC,fast food cook,11,low,low_11
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL11MC,MC,fast food cook,11,low,low_11
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL11MC,MC,fast food cook.,11,low,low_11
+R_0xCs70gIB4k1OI9,,,,,,,,,wL11MC,MC,fast food laborer,11,low,low_11
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL11MC,MC,fast food worker,11,low,low_11
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL11MC,MC,fast food worker,11,low,low_11
+R_82lXaIabGWgA2Ix,,,,,,,,,wL11MC,MC,fastfood cook,11,low,low_11
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL11MC,MC,financial manager,11,low,low_11
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL12MC,MC,dish washer,12,low,low_12
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL12MC,MC,dish washer,12,low,low_12
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL12MC,MC,dish washer,12,low,low_12
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL12MC,MC,dish washer.,12,low,low_12
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL12MC,MC,dishwasher,12,low,low_12
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL12MC,MC,dishwasher,12,low,low_12
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL12MC,MC,dishwasher,12,low,low_12
+R_1CmfLH8xs3fJECX,,,,,,,,,wL12MC,MC,dishwasher,12,low,low_12
+R_2wzBdjn7SNUIpW5,,,,,,,,,wL12MC,MC,dishwasher,12,low,low_12
+R_VOnQsXInKNzzFZf,,,,,,,,,wL12MC,MC,dishwasher,12,low,low_12
+R_1mguyIYh2wvPnjv,,,,,,,,,wL12MC,MC,dishwasher,12,low,low_12
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL12MC,MC,dishwasher.,12,low,low_12
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL12MC,MC,financial manager,12,low,low_12
+R_bNNtA5Aavv2yMEh,,,,,,,,,wL12MC,MC,worker,12,low,low_12
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL13MC,MC,financial manager,13,low,low_13
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL13MC,MC,waiter,13,low,low_13
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL13MC,MC,waiter,13,low,low_13
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL13MC,MC,waiter,13,low,low_13
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL13MC,MC,waiter,13,low,low_13
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL13MC,MC,waiter,13,low,low_13
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_1CmfLH8xs3fJECX,,,,,,,,,wL13MC,MC,waiter,13,low,low_13
+R_82lXaIabGWgA2Ix,,,,,,,,,wL13MC,MC,waiter,13,low,low_13
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL13MC,MC,waiter,13,low,low_13
+R_2wzBdjn7SNUIpW5,,,,,,,,,wL13MC,MC,waiter,13,low,low_13
+R_3DcqfOqDtzLKpKC,,,,,,,,,wL13MC,MC,waiter,13,low,low_13
+R_1mguyIYh2wvPnjv,,,,,,,,,wL13MC,MC,waiter,13,low,low_13
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL14MC,MC,cashier,14,low,low_14
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL14MC,MC,cashier,14,low,low_14
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL14MC,MC,cashier,14,low,low_14
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL14MC,MC,cashier,14,low,low_14
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL14MC,MC,cashier,14,low,low_14
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_1CmfLH8xs3fJECX,,,,,,,,,wL14MC,MC,cashier,14,low,low_14
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL14MC,MC,cashier,14,low,low_14
+R_2wzBdjn7SNUIpW5,,,,,,,,,wL14MC,MC,cashier,14,low,low_14
+R_3DcqfOqDtzLKpKC,,,,,,,,,wL14MC,MC,cashier,14,low,low_14
+R_1mguyIYh2wvPnjv,,,,,,,,,wL14MC,MC,cashier,14,low,low_14
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL14MC,MC,engineer,14,low,low_14
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL14MC,MC,financial manager,14,low,low_14
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL14MC,MC,it,14,low,low_14
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL14MC,MC,waiter,14,low,low_14
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL15MC,MC,financial manager,15,low,low_15
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL15MC,MC,janiter,15,low,low_15
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL15MC,MC,janitor,15,low,low_15
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL15MC,MC,janitor,15,low,low_15
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL15MC,MC,janitor,15,low,low_15
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL15MC,MC,janitor,15,low,low_15
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL15MC,MC,janitor,15,low,low_15
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1CmfLH8xs3fJECX,,,,,,,,,wL15MC,MC,janitor,15,low,low_15
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL15MC,MC,janitor,15,low,low_15
+R_1mguyIYh2wvPnjv,,,,,,,,,wL15MC,MC,janitor,15,low,low_15
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL15MC,MC,jantior,15,low,low_15
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL15MC,MC,sales,15,low,low_15
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL16MC,MC,driver,16,low,low_16
+R_3DcqfOqDtzLKpKC,,,,,,,,,wL16MC,MC,driver,16,low,low_16
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL16MC,MC,financial manager,16,low,low_16
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL16MC,MC,truc driver,16,low,low_16
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL16MC,MC,truck driver,16,low,low_16
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL16MC,MC,truck driver,16,low,low_16
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_30qJGVvYdtLpp3b,,,,,,,,,wL16MC,MC,truck driver,16,low,low_16
+R_1CmfLH8xs3fJECX,,,,,,,,,wL16MC,MC,truck driver,16,low,low_16
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL16MC,MC,truck driver,16,low,low_16
+R_2wzBdjn7SNUIpW5,,,,,,,,,wL16MC,MC,truck driver,16,low,low_16
+R_0xCs70gIB4k1OI9,,,,,,,,,wL16MC,MC,truck driver,16,low,low_16
+R_1mguyIYh2wvPnjv,,,,,,,,,wL16MC,MC,truck driver,16,low,low_16
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL16MC,MC,trucker,16,low,low_16
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL17MC,MC,driver,17,low,low_17
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL17MC,MC,financial manager,17,low,low_17
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL17MC,MC,taxi driver,17,low,low_17
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL17MC,MC,taxi driver,17,low,low_17
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_1CmfLH8xs3fJECX,,,,,,,,,wL17MC,MC,taxi driver,17,low,low_17
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL17MC,MC,taxi driver,17,low,low_17
+R_2wzBdjn7SNUIpW5,,,,,,,,,wL17MC,MC,taxi driver,17,low,low_17
+R_3DcqfOqDtzLKpKC,,,,,,,,,wL17MC,MC,taxi driver,17,low,low_17
+R_1mguyIYh2wvPnjv,,,,,,,,,wL17MC,MC,taxi driver,17,low,low_17
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL18MC,MC,executive,18,low,low_18
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL18MC,MC,farm employee,18,low,low_18
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL18MC,MC,farm labaror,18,low,low_18
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL18MC,MC,farm laborer,18,low,low_18
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL18MC,MC,farm laborer,18,low,low_18
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL18MC,MC,farm laborer,18,low,low_18
+R_2wzBdjn7SNUIpW5,,,,,,,,,wL18MC,MC,farm laborer,18,low,low_18
+R_0xCs70gIB4k1OI9,,,,,,,,,wL18MC,MC,farm laborer,18,low,low_18
+R_1mguyIYh2wvPnjv,,,,,,,,,wL18MC,MC,farm laborer,18,low,low_18
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL18MC,MC,farm laborer.,18,low,low_18
+R_1CmfLH8xs3fJECX,,,,,,,,,wL18MC,MC,farm laborer.,18,low,low_18
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL18MC,MC,farm labourer,18,low,low_18
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL18MC,MC,farm worker,18,low,low_18
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL18MC,MC,farmer,18,low,low_18
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL18MC,MC,financial manager,18,low,low_18
+R_3DcqfOqDtzLKpKC,,,,,,,,,wL18MC,MC,labor,18,low,low_18
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL18MC,MC,laborer,18,low,low_18
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL18MC,MC,laborer,18,low,low_18
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL18MC,MC,labour,18,low,low_18
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL19MC,MC,financial manager,19,low,low_19
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL19MC,MC,tele marketer,19,low,low_19
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL19MC,MC,tele marketer,19,low,low_19
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL19MC,MC,telemarketer,19,low,low_19
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL19MC,MC,telemarketer,19,low,low_19
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL19MC,MC,telemarketer,19,low,low_19
+R_1CmfLH8xs3fJECX,,,,,,,,,wL19MC,MC,telemarketer,19,low,low_19
+R_pEpnTjm66qIjT0J,,,,,,,,,wL19MC,MC,telemarketer,19,low,low_19
+R_0xCs70gIB4k1OI9,,,,,,,,,wL19MC,MC,telemarketer,19,low,low_19
+R_1mguyIYh2wvPnjv,,,,,,,,,wL19MC,MC,telemarketer,19,low,low_19
+R_2wzBdjn7SNUIpW5,,,,,,,,,wL19MC,MC,telemarketer.,19,low,low_19
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL19MC,MC,teleworker,19,low,low_19
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL2MC,MC,caterer,2,low,low_2
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL2MC,MC,dish washer,2,low,low_2
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL2MC,MC,dishwasher,2,low,low_2
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL2MC,MC,dishwasher,2,low,low_2
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL2MC,MC,dishwasher,2,low,low_2
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL2MC,MC,dishwasher,2,low,low_2
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wL2MC,MC,dishwasher,2,low,low_2
+R_stxSTSgimODYCt3,,,,,,,,,wL2MC,MC,dishwasher,2,low,low_2
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL2MC,MC,i am not roberts,2,low,low_2
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL2MC,MC,manager,2,low,low_2
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL2MC,MC,manser,2,low,low_2
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL2MC,MC,waiter,2,low,low_2
+R_3ER5bLQlYb9GMe1,1,40,4,,"3,6",,2,,wL20MC,MC,financial manager,20,low,low_20
+R_1kLyMlxwKXhmX3d,1,36,4,,6,,1,,wL20MC,MC,physician,20,low,low_20
+R_dbXG1cndyliDaJr,1,42,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_ykbW47Pty814VaN,1,30,4,,3,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1LBZv1BC75sP20B,2,63,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_3IRg2ONSnv7DQCD,1,42,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_Rw2d5Q6Wn7yPpUl,1,43,4,,6,,5,Costa Rica,wL20MC,MC,roofer,20,low,low_20
+R_p4NhWXY3eO6P9fz,1,33,4,,1,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1Iav8CoSfztaF8G,2,34,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_12yBWrqWgbRI6Fp,1,25,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_3Phnsgod8bOzgnN,2,30,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_Z2jYsZHPy3OIMGB,2,46,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1d7fdukQyEGqays,1,29,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_2uQauBKWAoFs6Rx,1,39,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_2TC9VBztrP3wUyw,2,59,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_2TYm1xqthHbCPzd,2,30,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1gOQgLpf1djIVvD,1,21,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1FS9MPa9X2dcO03,1,30,4,,3,,2,,wL20MC,MC,roofer,20,low,low_20
+R_1kH0iMR5tqRO8pE,2,34,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_3eeiRiKDbhKVfDY,1,48,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_2PBxItnW4ReAjjc,2,29,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_11ZtUIHK80CrpZT,1,32,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_3EJQjrtaTbRGbAJ,1,44,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1DHeREwhb8uCL3v,2,55,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1GBOOy15FdmsOCQ,5,31,4,,1,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1rcC9FGcOADU6T8,1,32,4,,3,,1,,wL20MC,MC,roofer,20,low,low_20
+R_3J8dVyUqUGLDtSa,1,33,4,,1,,1,,wL20MC,MC,roofer,20,low,low_20
+R_3kwdKbJyxDSE3Qn,1,30,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1N9vJUMm2prEohv,1,47,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_2ipQOd3E5l8OlPP,1,46,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1je7vHqlzYf1kJz,5,23,4,,3,,1,,wL20MC,MC,roofer,20,low,low_20
+R_PtdcCLbwhKUhiQp,2,57,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_10GwZ59gBqF6frS,2,39,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_3NwvuGukiJu628u,2,37,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1CmfLH8xs3fJECX,,,,,,,,,wL20MC,MC,roofer,20,low,low_20
+R_A0gdiriwvEpuHmh,2,22,4,,6,,1,,wL20MC,MC,roofer,20,low,low_20
+R_1mguyIYh2wvPnjv,,,,,,,,,wL20MC,MC,roofer,20,low,low_20
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL3MC,MC,associate,3,low,low_3
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL3MC,MC,chef,3,low,low_3
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL3MC,MC,chef,3,low,low_3
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL3MC,MC,finelaaccount,3,low,low_3
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL3MC,MC,waiter,3,low,low_3
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL3MC,MC,waiter,3,low,low_3
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL3MC,MC,waiter,3,low,low_3
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL3MC,MC,waiter,3,low,low_3
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL3MC,MC,waiter,3,low,low_3
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL3MC,MC,waiter,3,low,low_3
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL3MC,MC,waiter,3,low,low_3
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL3MC,MC,waiter,3,low,low_3
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL3MC,MC,waiter,3,low,low_3
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL3MC,MC,waiter,3,low,low_3
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wL3MC,MC,waiter,3,low,low_3
+R_xcjCQojqKk5LiKJ,,,,,,,,,wL3MC,MC,waiter,3,low,low_3
+R_1FPyJMzGsyowG2O,,,,,,,,,wL3MC,MC,writer,3,low,low_3
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL4MC,MC,a midwife,4,low,low_4
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL4MC,MC,analyst,4,low,low_4
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL4MC,MC,cashier,4,low,low_4
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL4MC,MC,cashier,4,low,low_4
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL4MC,MC,cashier,4,low,low_4
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL4MC,MC,cashier,4,low,low_4
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL4MC,MC,cashier,4,low,low_4
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL4MC,MC,cashier,4,low,low_4
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL4MC,MC,cashier,4,low,low_4
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL4MC,MC,cashier,4,low,low_4
+R_1FPyJMzGsyowG2O,,,,,,,,,wL4MC,MC,cashier,4,low,low_4
+R_1otjRKsteXhoyuk,,,,,,,,,wL4MC,MC,cashier,4,low,low_4
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL4MC,MC,casiyer,4,low,low_4
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL4MC,MC,it,4,low,low_4
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL4MC,MC,it,4,low,low_4
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL4MC,MC,manager,4,low,low_4
+R_1K7PV1s1vCaeotJ,,,,,,,,,wL4MC,MC,mturk,4,low,low_4
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wL4MC,MC,supervisor,4,low,low_4
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL4MC,MC,writer,4,low,low_4
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL5MC,MC,account,5,low,low_5
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL5MC,MC,banker,5,low,low_5
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL5MC,MC,fire fighter,5,low,low_5
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL5MC,MC,it,5,low,low_5
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL5MC,MC,jan itor,5,low,low_5
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL5MC,MC,janiator,5,low,low_5
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL5MC,MC,janitor,5,low,low_5
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL5MC,MC,janitor,5,low,low_5
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL5MC,MC,janitor,5,low,low_5
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL5MC,MC,janitor,5,low,low_5
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL5MC,MC,janitor,5,low,low_5
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL5MC,MC,janitor,5,low,low_5
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL5MC,MC,janitor,5,low,low_5
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL5MC,MC,janitor,5,low,low_5
+R_1FPyJMzGsyowG2O,,,,,,,,,wL5MC,MC,janitor,5,low,low_5
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wL5MC,MC,janitor,5,low,low_5
+R_1otjRKsteXhoyuk,,,,,,,,,wL5MC,MC,janitor,5,low,low_5
+R_xcjCQojqKk5LiKJ,,,,,,,,,wL5MC,MC,janitor,5,low,low_5
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL5MC,MC,jonitor,5,low,low_5
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL5MC,MC,truck driver,5,low,low_5
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL6MC,MC,a man of great size and strength who devoted himself to jesus by helping travelers cross a dangerous river,6,low,low_6
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL6MC,MC,a truck driver,6,low,low_6
+R_stxSTSgimODYCt3,,,,,,,,,wL6MC,MC,don't know,6,low,low_6
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL6MC,MC,drck deriver,6,low,low_6
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL6MC,MC,driver,6,low,low_6
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL6MC,MC,driver,6,low,low_6
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL6MC,MC,fisher,6,low,low_6
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL6MC,MC,photographer,6,low,low_6
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL6MC,MC,truck driver,6,low,low_6
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL6MC,MC,truck driver,6,low,low_6
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL6MC,MC,truck driver,6,low,low_6
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL6MC,MC,truck driver,6,low,low_6
+R_1FPyJMzGsyowG2O,,,,,,,,,wL6MC,MC,truck driver,6,low,low_6
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wL6MC,MC,truck driver,6,low,low_6
+R_1otjRKsteXhoyuk,,,,,,,,,wL6MC,MC,truck driver,6,low,low_6
+R_xcjCQojqKk5LiKJ,,,,,,,,,wL6MC,MC,truck driver,6,low,low_6
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL6MC,MC,truck driver.,6,low,low_6
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL7MC,MC,"as jesus went on from there, he saw a man named matthew sitting at the tax collector's booth.",7,low,low_7
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL7MC,MC,driver,7,low,low_7
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL7MC,MC,driver,7,low,low_7
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL7MC,MC,gamer,7,low,low_7
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL7MC,MC,no,7,low,low_7
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL7MC,MC,tax collector,7,low,low_7
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL7MC,MC,taxi-driver,7,low,low_7
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL7MC,MC,taxi drive,7,low,low_7
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL7MC,MC,taxi driver,7,low,low_7
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL7MC,MC,taxi driver,7,low,low_7
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL7MC,MC,taxi driver,7,low,low_7
+R_1FPyJMzGsyowG2O,,,,,,,,,wL7MC,MC,taxi driver,7,low,low_7
+R_23f9gXYaZTstMPP,,,,,,,,,wL7MC,MC,taxi driver,7,low,low_7
+R_1otjRKsteXhoyuk,,,,,,,,,wL7MC,MC,taxi driver,7,low,low_7
+R_stxSTSgimODYCt3,,,,,,,,,wL7MC,MC,taxi driver,7,low,low_7
+R_xcjCQojqKk5LiKJ,,,,,,,,,wL7MC,MC,taxi driver,7,low,low_7
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL7MC,MC,taxi driver.,7,low,low_7
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL7MC,MC,technician,7,low,low_7
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL7MC,MC,waiter,7,low,low_7
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL8MC,MC,cafe waiter,8,low,low_8
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL8MC,MC,farm laborer,8,low,low_8
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL8MC,MC,farm laborer,8,low,low_8
+R_23f9gXYaZTstMPP,,,,,,,,,wL8MC,MC,farm laborer,8,low,low_8
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wL8MC,MC,farm laborer,8,low,low_8
+R_1otjRKsteXhoyuk,,,,,,,,,wL8MC,MC,farm laborer,8,low,low_8
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL8MC,MC,farm laborer.,8,low,low_8
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL8MC,MC,farm labourer,8,low,low_8
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL8MC,MC,farm labrorer,8,low,low_8
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL8MC,MC,good,8,low,low_8
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL8MC,MC,in the very first episode she meets donald,8,low,low_8
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL8MC,MC,labonar,8,low,low_8
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL8MC,MC,labor,8,low,low_8
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL8MC,MC,laborer,8,low,low_8
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL8MC,MC,military veteran,8,low,low_8
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL8MC,MC,president,8,low,low_8
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL8MC,MC,worker,8,low,low_8
+R_1FPyJMzGsyowG2O,,,,,,,,,wL9MC,MC,cashier,9,low,low_9
+R_ROVd2iMM0raLd1T,1,27,4,,6,,1,,wL9MC,MC,gamer,9,low,low_9
+R_bj6qHP0X02NRqTf,1,48,4,,6,,2,,wL9MC,MC,missionary preacher prophet,9,low,low_9
+R_1K7PV1s1vCaeotJ,,,,,,,,,wL9MC,MC,mturk,9,low,low_9
+R_1jIkAHIYfkaMOKV,1,48,4,,6,,4,,wL9MC,MC,no occupition,9,low,low_9
+R_3OrererLvFDP7Cs,1,25,4,,6,,1,,wL9MC,MC,server,9,low,low_9
+R_29gBHO2g4hG0HEd,1,32,4,,6,,1,,wL9MC,MC,tele marketer,9,low,low_9
+R_3k5MIEB1xR75maU,2,56,4,,6,,1,,wL9MC,MC,tele marketer,9,low,low_9
+R_3NNSMB87MZknPcv,1,40,4,,6,,6,,wL9MC,MC,tele marketer,9,low,low_9
+R_1I4amYkCBzEXegv,1,30,4,,3,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_22QYSgkwKl2fl2B,2,50,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_330Wv4RTQVDYPFC,2,44,4,,5,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_3qegcuy6UJ8nn7T,1,33,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_3MA8RWNHzL3Skqy,1,29,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_21FlEWkbljN48cS,1,26,4,,3,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_bmFCI50SuIhFohH,1,35,4,,3,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_1FhXN1Erb9l6P8u,1,65,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_2TObuo9SOHzKNMF,2,41,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_vPSRIFSw60M5szL,2,25,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_24JkcCIbk2G9jJe,2,33,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_2SGlMbZawCxjG04,1,32,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_beIrWVOxdkZSdR7,1,32,4,,3,,4,,wL9MC,MC,telemarketer,9,low,low_9
+R_rdqnfpc0MC9I8N3,1,25,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_2PnVq30S0AywkYK,1,49,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_3PjIIwqqsuOKBE7,1,28,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_1GJlZIuaVFQJ5Mj,1,35,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_22WawJARS0nVfyr,2,32,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_1ms11OasKXUuqTI,1,1985,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_3RjACkfy5Az1rcV,1,32,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_31QVGMDRzBcPXFS,1,50,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_6QKaWnBm4XfcegF,1,37,4,,6,,2,,wL9MC,MC,telemarketer,9,low,low_9
+R_1cZi4T6vXIU2IPq,1,Male,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_Wl0refdNAU8Nlrr,1,30,4,,"3,6",,5,,wL9MC,MC,telemarketer,9,low,low_9
+R_1OPmdioEBICfb6k,2,48,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_2rOfnn7hg4YPne9,1,36,4,,6,,1,,wL9MC,MC,telemarketer,9,low,low_9
+R_23f9gXYaZTstMPP,,,,,,,,,wL9MC,MC,telemarketer,9,low,low_9
+R_2w6KqQ1n0Q3lk9c,,,,,,,,,wL9MC,MC,telemarketer,9,low,low_9
+R_1otjRKsteXhoyuk,,,,,,,,,wL9MC,MC,telemarketer,9,low,low_9
+R_9B6zCkFCyP83uil,1,25,4,,6,,1,,wL9MC,MC,telemarketer.,9,low,low_9
+R_1IYLcXXIhudx5sM,2,48,4,,6,,1,,wL9MC,MC,telemarkter,9,low,low_9
